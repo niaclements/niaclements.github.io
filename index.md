@@ -10,9 +10,9 @@ subtitle: Masters Student at Cornell University
   </div>
 <div class="row">
   <div class="col-md-auto" markdown="1">
- <strong>Email:</strong> <a href="mailto:nmc72@cornell.edu">sb2643@cornell.edu</a> <br>
-<strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/niaclements/">https://www.linkedin.com/in/stevebroll/</a> <br>
-<strong>GitHub:</strong> <a href="https://github.com/niaclements/">https://github.com/stevebroll</a> <br>
+ <strong>Email:</strong> <a href="mailto:nmc72@cornell.edu">nmc72@cornell.edu</a> <br>
+<strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/niaclements/">https://www.linkedin.com/in/niaclements/</a> <br>
+<strong>GitHub:</strong> <a href="https://github.com/niaclements/">https://github.com/niaclements</a> <br>
 <strong>(Outdated) CV:</strong><a href="assets/img/CV.pdf"> Click Here </a>
   </div>
 </div>
