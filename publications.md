@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publications
+---
+
 ### Peer-Reviewed
 
 <b>Clements N</b>, Falcon MP, Sodhi RV, and Saleh MC. (2023). “Pro Se: Speech & Debate Mentoring Program for Justice-Impacted Youth Community-Engaged Learning Experiences of Cornell University Students.” SUNY Journal of the Scholarship of Engagement: JoSE. DOI coming soon. 
