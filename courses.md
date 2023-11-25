@@ -10,35 +10,35 @@ Statistics and Methods <br>
 Calculus I and II <br>
 [Informal audit] Calculus III <br> 
 
-Chemistry
+Chemistry Coursework
 
-General Chemistry & Laboratory 
-Advanced Chemical Principles Lab 
-Organic Chemistry I and II 
-Laboratory Methods in Organic Chemistry 
-Chemical Synthesis Laboratory 
-Advanced Topics in Chemistry  
-Physical Chemistry I 
+General Chemistry & Laboratory <br>
+Advanced Chemical Principles Lab <br>
+Organic Chemistry I and II <br>
+Laboratory Methods in Organic Chemistry <br>
+Chemical Synthesis Laboratory <br>
+Advanced Topics in Chemistry <br> 
+Physical Chemistry I <br>
 
-Biochemistry
+Biochemistry Coursework
 
-Biochemistry I and II 
-Biochemistry Laboratory 
-Biochemistry & Molecular Biology Seminar 
+Biochemistry I and II <br>
+Biochemistry Laboratory <br>
+Biochemistry & Molecular Biology Seminar <br>
 
-Biology
+Biology Coursework
 
-Integrative Biology & Laboratory 
-Genes, Phenotypes, and Evolutionary Dynamics 
-Cells and Cell Systems & Laboratory 
-Molecular Biology  
-Genetics 
+Integrative Biology & Laboratory <br>
+Genes, Phenotypes, and Evolutionary Dynamics <br>
+Cells and Cell Systems & Laboratory <br>
+Molecular Biology  <br>
+Genetics <br>
 
-Physics
+Physics Coursework
 
-General Physics I and II 
-Introductory Physics Laboratory 
-Intermediate Physics Laboratory 
+General Physics I and II <br>
+Introductory Physics Laboratory <br>
+Intermediate Physics Laboratory <br>
 
 <br>
 
@@ -46,20 +46,20 @@ Intermediate Physics Laboratory
 
 Epidemiology & Biostatistics Coursework
 
-Advanced Epidemiologic Methods 
-Epidemiology in Practice 
-Epidemiology Seminar Series 
-Infectious Disease Epidemiology 
-Biostatistics for Health Sciences 
-Applied Data Analysis I and II 
+Advanced Epidemiologic Methods <br>
+Epidemiology in Practice <br>
+Epidemiology Seminar Series <br>
+Infectious Disease Epidemiology <br>
+Biostatistics for Health Sciences <br>
+Applied Data Analysis I and II <br>
 
 Public Health Coursework
 
-Disease Surveillance and Response 
-Public Health Communication 
-Public Health Monitoring and Evaluation 
-Public Health Foundations I and II 
-One Health - Planetary Health 
-Infectious Disease and Health 
-Public Health Assessment 
+Disease Surveillance and Response <br> 
+Public Health Communication <br>
+Public Health Monitoring and Evaluation <br>
+Public Health Foundations I and II <br>
+One Health - Planetary Health <br>
+Infectious Disease and Health <br>
+Public Health Assessment <br>
 <br>
