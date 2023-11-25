@@ -40,8 +40,6 @@ General Physics I and II <br>
 Introductory Physics Laboratory <br>
 Intermediate Physics Laboratory <br>
 
-<br>
-
 # Cornell University 2022-2024
 
 #### Epidemiology & Biostatistics Coursework
