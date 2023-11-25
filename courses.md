@@ -2,7 +2,7 @@
 layout: page
 title: Relevant Coursework
 ---
-## Trinity University 2018-2022
+# Trinity University 2018-2022
 
 #### Mathematics and Statistics Coursework 
 
@@ -42,7 +42,7 @@ Intermediate Physics Laboratory <br>
 
 <br>
 
-## Cornell University 2022-2024
+# Cornell University 2022-2024
 
 #### Epidemiology & Biostatistics Coursework
 
