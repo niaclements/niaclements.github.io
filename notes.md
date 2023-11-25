@@ -26,6 +26,6 @@ View the literature review here: [Poverty Alleviation Literature Review](assets/
 ### Hunts Point Systems Health Outcomes Analysis Paper & Systems Diagram
 In this short paper and systems diagram, I describe the impact of Food Distribution Center traffic, poor greenspace, and low access to healthy foods to neighborhoods in Hunts Point, New York City. This paper and systems diagrams strengthened by systems thinking and evidence-based writing skills.
 
-View the paper here: [Health Outcomes Analysis](assets/img/huntspoint.pdf)
+View the paper here: [Health Outcomes Analysis](assets/img/huntspoint.pdf) <br>
 View the systems diagram here: [Systems Diagram](assets/img/systemsdiagram.pdf)
 
