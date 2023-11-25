@@ -4,11 +4,11 @@ title: Relevant Coursework
 ---
 #### Trinity University 2018-2022
 
-Mathematics and Statistics
+Mathematics and Statistics Coursework 
 
-Statistics and Methods 
-Calculus I and II 
-[Informal audit] Calculus III 
+Statistics and Methods <br>
+Calculus I and II <br>
+[Informal audit] Calculus III <br> 
 
 Chemistry
 
