@@ -2,7 +2,7 @@
 
 <b>Clements N</b>, Falcon MP, Sodhi RV, and Saleh MC. (2023). “Pro Se: Speech & Debate Mentoring Program for Justice-Impacted Youth Community-Engaged Learning Experiences of Cornell University Students.” SUNY Journal of the Scholarship of Engagement: JoSE. DOI coming soon. 
 
-Coffin-Schmitt JL, <b>Clements N</b>, Marshall G, Liu L, Trombitas A, Wang Z, Yuan S, Safi AG, Hanson KL and Fiorella KJ (2023) Wild and backyard food use in upstate New York, United States during COVID-19. Front. Nutr. 10:1222610. <a href-"https://doi.org/10.3389/fnut.2023.1222610.">https://doi.org/10.3389/fnut.2023.1222610</a>
+Coffin-Schmitt JL, <b>Clements N</b>, Marshall G, Liu L, Trombitas A, Wang Z, Yuan S, Safi AG, Hanson KL and Fiorella KJ (2023) Wild and backyard food use in upstate New York, United States during COVID-19. Front. Nutr. 10:1222610. <a href="https://doi.org/10.3389/fnut.2023.1222610.">https://doi.org/10.3389/fnut.2023.1222610</a>
 
 Cha E*, <b>Clements N\*</b>, Hofman CR*, Lavoie B*, Van Zile A*, Warden L*, and Urbach AR. (2020). “Sequence-Predictive Recognition of Proteins and Peptides by Synthetic and Natural Receptors” in Supramolecular Protein Chemistry, Ed. Peter Crowley, 2020, Royal Society of Chemistry, Cambridge, in press. <a href="https://doi.org/10.1039/9781788019798-00062.">https://doi.org/10.1039/9781788019798-00062</a>  
 *All authors contributed equally.
