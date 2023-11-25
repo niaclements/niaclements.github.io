@@ -1,10 +1,22 @@
 ---
 layout: page
-title:  Selected Projects
+title: Selected Projects
 ---
+
 ### Epidemiological Profile
+
 [Portfolio](assets/img/EpiProfile_Portfolio.pdf)
 
-<object data="assets/img/EpiProfile_Portfolio.pdf" width="1000" height="1000" type='application/pdf'></object>
+### Chemung County
+
+[Poverty Alleviation Literature Review](assets/img/Povertyalleviation.pdf)
+
+### Hunts Point
+
+[Health Outcomes Analysis](assets/img/huntspoint.pdf)
+
+[Systems Diagram](assets/img/systemsdiagram.pdf)
+
+[Grant Application](assets/img/grant.pdf)
 
 
