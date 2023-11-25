@@ -21,7 +21,7 @@ author: Nia Clements
 
 navbar-links:
   Publications: "publications"
-  Presentations: "presentations"
+#  Presentations: "presentations"
   Selected Projects: "notes"
   Courses: "courses"
   
