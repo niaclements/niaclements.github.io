@@ -5,7 +5,8 @@ title: Publications
 
 ### Peer-Reviewed
 
-<b>Clements N</b>, Falcon MP, Sodhi RV, and Saleh MC. (2023). “Pro Se: Speech & Debate Mentoring Program for Justice-Impacted Youth Community-Engaged Learning Experiences of Cornell University Students.” SUNY Journal of the Scholarship of Engagement: JoSE. DOI coming soon. 
+<b>Clements, Nia</b>; Falcon, Paola; Sodhi, Ria; and Saleh, Matt (2023) "Pro Se: Speech & Debate Mentoring Program for Justice-Impacted Youth Community-Engaged Learning Experiences of Cornell University Students," The SUNY Journal of the Scholarship of Engagement: JoSE: Vol. 3: Iss. 1, Article 4. Available at: <a href="https://digitalcommons.cortland.edu/jose/vol3/iss1/4.">https://digitalcommons.cortland.edu/jose/vol3/iss1/4</a>
+
 
 Coffin-Schmitt JL, <b>Clements N</b>, Marshall G, Liu L, Trombitas A, Wang Z, Yuan S, Safi AG, Hanson KL and Fiorella KJ (2023) Wild and backyard food use in upstate New York, United States during COVID-19. Front. Nutr. 10:1222610. <a href="https://doi.org/10.3389/fnut.2023.1222610.">https://doi.org/10.3389/fnut.2023.1222610</a>
 
@@ -14,7 +15,7 @@ Cha E *, <b>Clements N *</b>, Hofman CR *, Lavoie B *, Van Zile A *, Warden L *,
 
 ### Under Review
 
-<b>Clements N</b>, Diel DG, Elvinger F, Koretzky G, Siler J, and Warnick L. (Under review for PLOS ONE; Submitted November X, 2023). “The role of veterinary diagnostic laboratories during COVID-19 response in the United States.”
+<b>Clements N</b>, Diel DG, Elvinger F, Koretzky G, Siler J, and Warnick L. (Under review for PLOS ONE; Submitted November 29, 2023). “The role of veterinary diagnostic laboratories during COVID-19 response in the United States.”
 
 ### In-Progress
 
