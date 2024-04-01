@@ -7,6 +7,7 @@ title: Selected Projects
 I co-authored this grant for the New York State's Office of Resilience Homes & Communities. This grant, titled "Community-Informed Planning to Increase Flood Resilience in Binghamton, New York" describes a $1M, 3-year long initiaitve to equitable increase flooding resiliency among Binghamton, NY, residents via a participatory planning process. This project was a wonderful opportunity to build my grant writing skills while also developing a justice-driven solution to flooding vulnerability. 
 
 View the grant submission here: [FEMA-Style Grant Application](assets/img/grant.pdf)
+<a href="assets/img/grant.pdf" target="_blank">FEMA-Style Grant Application</a>
 
 ### Opioid Use Disorder in New York State - Epidemiological Profile
 This epidemiological profile summarizes recent data on Opioid Use Disorder, assesses existing community resources related to opioid use, and provides recommendations for community organizations and state legislative bodies to decrease opioid burden in New York State. Through this project, I practiced evidence-based writing and summarizing data on existing dashboards. 
