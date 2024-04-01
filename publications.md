@@ -16,7 +16,7 @@ Cha E *, <b>Clements N *</b>, Hofman CR *, Lavoie B *, Van Zile A *, Warden L *,
 ### Under Review
 
 <b>Clements N</b>, Diel DG, Elvinger F, Koretzky G, Siler J, and Warnick L. (Under review for PLOS ONE; Submitted November 29, 2023). “The role of veterinary diagnostic laboratories during COVID-19 response in the United States.”
-See medrxiv preprint: <a href="Preprint Posting" target="_blank">https://www.medrxiv.org/content/10.1101/2023.12.05.23299493v1#:~:text=Results%20of%20surveys%2C%20semi%2Dstructured,and%20informed%20public%20health%20interventions.</a>
+See medrxiv preprint: <a href="https://www.medrxiv.org/content/10.1101/2023.12.05.23299493v1#:~:text=Results%20of%20surveys%2C%20semi%2Dstructured,and%20informed%20public%20health%20interventions" target="_blank">https://www.medrxiv.org/content/10.1101/2023.12.05.23299493v1#:~:text=Results%20of%20surveys%2C%20semi%2Dstructured,and%20informed%20public%20health%20interventions </a>
 
 <b>Clements N</b>, Iwashita F, and Alistair Hayden. (Under review for Water Research; Submitted March 15, 2023). “Preliminary Analysis of the Association between PFAS Exposure via Drinking Water and Sociodemographic Vulnerability in New York State.”
 
