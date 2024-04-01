@@ -13,7 +13,7 @@ subtitle: Master of Public Health Student at Cornell University
  <strong>Email:</strong> <a href="mailto:nmc72@cornell.edu">nmc72@cornell.edu</a> <br>
 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/niaclements/">https://www.linkedin.com/in/niaclements/</a> <br>
 <strong>GitHub:</strong> <a href="https://github.com/niaclements/">https://github.com/niaclements</a> <br>
-<strong>CV:</strong><a href="assets/img/CV.pdf"> Click Here </a>
+<strong>CV:</strong><a href="assets/img/CV.pdf" target="_blank"> Click Here </a>
   </div>
 </div>
 </div>
