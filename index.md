@@ -10,9 +10,9 @@ subtitle: Master of Public Health Student at Cornell University
   </div>
 <div class="row">
   <div class="col-md-auto" markdown="1">
- <strong>Email:</strong> <a href="mailto:nmc72@cornell.edu">nmc72@cornell.edu</a> <br>
-<strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/niaclements/">https://www.linkedin.com/in/niaclements/</a> <br>
-<strong>GitHub:</strong> <a href="https://github.com/niaclements/">https://github.com/niaclements</a> <br>
+ <strong>Email:</strong> <a href="mailto:nmc72@cornell.edu" target="_blank">nmc72@cornell.edu</a> <br>
+<strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/niaclements/" target="_blank">https://www.linkedin.com/in/niaclements/</a> <br>
+<strong>GitHub:</strong> <a href="https://github.com/niaclements/" target="_blank">https://github.com/niaclements</a> <br>
 <strong>CV:</strong><a href="assets/img/CV.pdf" target="_blank"> Click Here </a>
   </div>
 </div>
