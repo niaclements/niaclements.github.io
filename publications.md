@@ -5,7 +5,7 @@ title: Publications
 
 ### Peer-Reviewed
 
-<b>Clements, Nia</b>; Falcon, Paola; Sodhi, Ria; and Saleh, Matt (2023) "Pro Se: Speech & Debate Mentoring Program for Justice-Impacted Youth Community-Engaged Learning Experiences of Cornell University Students," The SUNY Journal of the Scholarship of Engagement: JoSE: Vol. 3: Iss. 1, Article 4. Available at: <a href="https://digitalcommons.cortland.edu/jose/vol3/iss1/4." "target="_blank">https://digitalcommons.cortland.edu/jose/vol3/iss1/4</a>
+<b>Clements, Nia</b>; Falcon, Paola; Sodhi, Ria; and Saleh, Matt (2023) "Pro Se: Speech & Debate Mentoring Program for Justice-Impacted Youth Community-Engaged Learning Experiences of Cornell University Students," The SUNY Journal of the Scholarship of Engagement: JoSE: Vol. 3: Iss. 1, Article 4. Available at: <a href="https://digitalcommons.cortland.edu/jose/vol3/iss1/4" target="_blank">https://digitalcommons.cortland.edu/jose/vol3/iss1/4</a>
 
 
 Coffin-Schmitt JL, <b>Clements N</b>, Marshall G, Liu L, Trombitas A, Wang Z, Yuan S, Safi AG, Hanson KL and Fiorella KJ (2023) Wild and backyard food use in upstate New York, United States during COVID-19. Front. Nutr. 10:1222610. <a href="https://doi.org/10.3389/fnut.2023.1222610.">https://doi.org/10.3389/fnut.2023.1222610</a>
