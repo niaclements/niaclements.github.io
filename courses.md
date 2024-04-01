@@ -2,6 +2,32 @@
 layout: page
 title: Relevant Coursework
 ---
+
+# Cornell University 2022-2024
+
+#### Epidemiology & Biostatistics Coursework
+
+Time Series and Spatial Data Analysis <br>
+Environmental Epidemiology Seminar Series <br>
+Advanced Epidemiologic Methods <br>
+Epidemiology in Practice <br>
+Epidemiology Seminar Series <br>
+Infectious Disease Epidemiology <br>
+Biostatistics for Health Sciences <br>
+Applied Data Analysis I and II <br>
+
+#### Public Health Coursework
+
+Public Health Policy <br>
+Disease Surveillance and Response <br> 
+Public Health Communication <br>
+Public Health Monitoring and Evaluation <br>
+Public Health Foundations I and II <br>
+One Health - Planetary Health <br>
+Infectious Disease and Health <br>
+Public Health Assessment <br>
+<br>
+
 # Trinity University 2018-2022
 
 #### Mathematics and Statistics Coursework 
@@ -39,25 +65,3 @@ Genetics <br>
 General Physics I and II <br>
 Introductory Physics Laboratory <br>
 Intermediate Physics Laboratory <br>
-
-# Cornell University 2022-2024
-
-#### Epidemiology & Biostatistics Coursework
-
-Advanced Epidemiologic Methods <br>
-Epidemiology in Practice <br>
-Epidemiology Seminar Series <br>
-Infectious Disease Epidemiology <br>
-Biostatistics for Health Sciences <br>
-Applied Data Analysis I and II <br>
-
-#### Public Health Coursework
-
-Disease Surveillance and Response <br> 
-Public Health Communication <br>
-Public Health Monitoring and Evaluation <br>
-Public Health Foundations I and II <br>
-One Health - Planetary Health <br>
-Infectious Disease and Health <br>
-Public Health Assessment <br>
-<br>
