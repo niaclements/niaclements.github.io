@@ -13,7 +13,7 @@ This epidemiological profile summarizes recent data on Opioid Use Disorder, asse
 
 View the Epidemiological Profile here: [Epidemiological Profile for Opioid Use Disorder](assets/img/EpiProfile_Portfolio.pdf)
 
-### Biosocioecological Evaluation of PFAS
+### Biosocioecological Evaluation of Per- and Polyfluoroalkyl Substances (PFAS)
 In this paper, I describe the known impacts of PFAS on pregnancy and young children in the United States from 2008-2023 in the context of the biosocioecological model. This paper evaluates the impacts of PFAS exposure from an individual to population-wide level and provides recommendations on how we can use this information to promote environmental justice and population wellbeing. 
 
 View the paper here: [Biosocioecological Evaluation of PFAS](assets/img/PFAS.pdf)
