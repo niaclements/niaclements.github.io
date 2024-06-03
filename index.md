@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nia Myfanwy Clements, MPH"
-subtitle: Incoming PhD Students in Epidemiology at the University of Michigan at Ann Arbor
+subtitle: Incoming PhD Student in Epidemiology at the University of Michigan at Ann Arbor
 ---
 <div class="container">
 <div class="row">
